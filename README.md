@@ -1,3 +1,11 @@
+<table>
+			<tr> 
+				<td> <img src='images/me.png' /> </td> 
+				<td> Email:rahikalantari@gmail.com <br> 
+				</td> 
+			</tr>
+			</table>		
+
 <h2> About Me </h2>
 
 <font face="Georgia">
