@@ -1,9 +1,14 @@
-## Welcome to GitHub Pages
+## <h1> About Me </h1>
 
-You can use the [editor on GitHub](https://github.com/Rahi0144/Rahi-Kalanatri/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I am a PHD candidate at the University of Texas at Austin with a focus in Machine Learning. I recieved my Masters in 2017, Bachelors  in La-te-da from McMaster University. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<h2> Research </h2>
 
+<h2> Publications </h2>
+
+<h2> Work Experience </h2>
+
+<h2> Contact Information </h2>
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
